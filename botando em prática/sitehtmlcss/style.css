@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(179, 30, 60);
+}
+
+header {
+    background-color: brown;
+    padding: 2rem;
+    box-shadow: 10px 3px 10px #464646;
+}
+
+.itens {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.item {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.especialidade {
+    display: flex;
+    padding-left: 250px;
+    padding-top: 50px;
+}
+
+.perfil {
+    display: flex;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding: 2rem;
+    box-shadow: 10px 3px 10px #464646;
+    background-color: rgb(107, 0, 21);
+}
+
+
+
+
+
+
+

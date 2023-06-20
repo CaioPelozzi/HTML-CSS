@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.titulo {
+    background-color: rgb(125, 124, 209);
+    padding: 0.5rem;
+    box-shadow: 10px 3px 10px;
+    text-align: center;
+}
+
+.botaofake {
+    position: absolute;
+    left: 620px;
+    top: 300px;
+    font-size: 30px;
+
+}
+
+.link {
+    color: black;
+}
